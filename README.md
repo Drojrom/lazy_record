@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
